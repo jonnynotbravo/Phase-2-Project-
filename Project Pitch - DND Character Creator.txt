@@ -1,0 +1,49 @@
+
+PROJECT PITCH
+Owner/s:
+Jonny Tilahun, Khanya Keswa
+Project Name:
+DND Character 
+Creator
+Phase and Cohort:
+Phase 2 - 101022 East
+One sentence app description:
+Design and determine the role of a new Dungeons & Dragons character. 
+Timeline:
+
+Friday: Last minute styling additions
+Thursday: Style/finalize the app
+Wednesday: Finish MVP and build out remaining functionality 
+Tuesday: Prototype component tree and begin MVP
+Monday: Create app wireframe
+Domain Model:  
+
+•	Character creator form
+•	Character stat allocation
+•	Character container
+•	Character card display/result
+•	Character ranking/sorting list
+
+User Stories:
+
+E.g. User will be able to:
+?	Create a new custom character, using provided templates or one 
+from scratch
+?	Allow user to customize character attributes from set number of 
+points
+?	Provide user with a “ranking” or “grade” of their character based on 
+role demands and attribute point allocation
+?	Create a “trading card” UI illustrating the new character
+?	Allow user to assemble a “team” of characters stored in local 
+database
+
+
+Stretch Goals:
+
+?	Implement DND API: https://www.dnd5eapi.co/docs/ - overview--
+introduction
+
+
+Wireframes: Paste wireframes of your project into this doc, or include a link to your wireframes
+
+
